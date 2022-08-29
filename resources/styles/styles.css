@@ -1,0 +1,65 @@
+header,
+main,
+div {
+  display: block;
+}
+
+img {
+  float: left;
+}
+
+#personalBackground {
+  padding-left: 20%;
+  padding-right: 40%;
+  padding-top: 1.5em;
+  padding-bottom: 5em;
+}
+
+#experience {
+  float: left;
+  margin-right: 20px;
+  width: 500px;
+  height: 10em;
+  padding-bottom: 100px;
+  padding-right: 4em;
+}
+
+#programmingLanguages {
+
+
+  margin-right: 30%;
+}
+
+#achievements {
+
+  width: 500px;
+  margin-right: 10%;
+}
+
+#games {
+
+  margin-right: 30%;
+}
+
+ul {
+  display: inline-block;
+
+}
+
+ol {
+  display: inline-block;
+
+}
+
+h1 {
+  padding-top: .70em;
+  padding-bottom: .70em;
+}
+
+.section {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto
+}
